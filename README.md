@@ -1,2 +1,2 @@
-# Coursera-Machine_Learning
+# Coursera-Machine-Learning
 self-learning program
